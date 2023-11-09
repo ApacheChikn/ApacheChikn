@@ -1,3 +1,5 @@
+# I'm ApacheChikn and I'm a DevOps Padawan.
+
 <!-- GITHUB STATS -->
 - ## GitHub Stats
   ![Github Stats](https://github-readme-stats.vercel.app/api?username=ApacheChikn&theme=midnight-purple&show_icons=true)
