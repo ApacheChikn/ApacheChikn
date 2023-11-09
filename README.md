@@ -1,7 +1,12 @@
 <!-- GITHUB STATS -->
 - ## GitHub Stats
-  ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ApacheChikn&theme=blue-green)
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=ApacheChikn&theme=blue-green)
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=ApacheChikn&theme=midnight-purple&show_icons=true)
+
+  ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ApacheChikn&theme=midnight-purple)
+
+  ![Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ApacheChikn?cardType=github&theme=midnight-purple&preferLogin=false)
+
+  ![GitHub Streak](https://streak-stats.demolab.com?user=ApacheChikn&theme=midnight-purple&mode=weekly)
 
 <!--
 ### Hi there 👋
