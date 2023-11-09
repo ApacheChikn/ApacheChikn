@@ -24,7 +24,7 @@ jobs:
           SHOW_TITLE: true # optional
           SECTION_NAME: ApacheChikn Coding Stats # optional
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # optional
-          CODE_LANG: TXT PYTHON YAML JSON HTML CSS # optional
+          CODE_LANG: TXT PYTHON MARKDOWN YAML JSON HTML CSS # optional
           TIME_RANGE: all_time # optional
           LANG_COUNT: 10 # optional
           SHOW_TIME: true # optional
