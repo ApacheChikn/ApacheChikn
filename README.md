@@ -12,6 +12,8 @@
 
   ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ApacheChikn)
 
+<figure><embed src="https://wakatime.com/share/@ApacheChikn/db6cfdb5-7d09-4de0-840a-d70c09b9d4a2.svg"></embed></figure>
+
 
 
 <!--START_SECTION:waka-->
