@@ -10,7 +10,7 @@
 INPUT_GH_TOKEN=EXAMPLE_GITHUB_PAT # required (for development)
 INPUT_WAKATIME_API_KEY=EXAMPLE-WAKATIME-API-KEY # required
 INPUT_API_BASE_URL=https://wakatime.com/api # required
-INPUT_REPOSITORY=GITHUB_USERNAME/REPOSITORY_NAME # required
+INPUT_REPOSITORY=ApacheChikn/ApacheChikn # required
 INPUT_COMMIT_MESSAGE=Updated WakaReadme graph with new metrics
 INPUT_SHOW_TITLE=true
 INPUT_SECTION_NAME=waka

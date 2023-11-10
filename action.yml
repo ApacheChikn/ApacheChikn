@@ -1,5 +1,5 @@
 name: "Waka - Readme"
-author: "Athul Cyriac Ajay"
+author: "Shawn W. Feltmate"
 description: "WakaTime coding activity graph in your profile readme"
 
 inputs:
@@ -7,8 +7,9 @@ inputs:
     description: "GitHub access token with Repo scope"
     default: ${{ github.token }}
     required: true
+
   WAKATIME_API_KEY:
-    description: "Your Wakatime/Wakapi/Hakatime API Key"
+    description: "waka_962b1b47-b1d1-4626-a6d3-c63947eb9768"
     required: true
 
   # meta tweaks

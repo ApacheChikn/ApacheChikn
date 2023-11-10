@@ -17,6 +17,8 @@ jobs:
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "False"
           ### meta
           API_BASE_URL: https://wakatime.com/api # optional
           REPOSITORY: ApacheChikn/ApacheChikn # optional
@@ -36,8 +38,8 @@ jobs:
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           TARGET_BRANCH: master # optional
           TARGET_PATH: README.md # optional
-          COMMITTER_NAME: Shawn W. Feltmate # optional
-          COMMITTER_EMAIL: shawnfeltmate@gmail.com # optional
+          COMMITTER_NAME: GitHubActionBot # optional
+          COMMITTER_EMAIL: action-bot@github.com # optional
           AUTHOR_NAME: Shawn W. Feltmate # optional
           AUTHOR_EMAIL: shawnfeltmate@gmail.com # optional
           # you can populate email-id with secretes instead
