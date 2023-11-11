@@ -10,14 +10,11 @@
 
   ![GitHub Streak](https://streak-stats.demolab.com?user=ApacheChikn&theme=midnight-purple&mode=weekly)
 
-  ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ApacheChikn)
+<!-- WakaTime STATS -->
+- ## WakaTime Stats
+<!--START_SECTION:waka ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ApacheChikn) END_SECTION:waka-->
 
-<figure><embed src="https://wakatime.com/share/@ApacheChikn/db6cfdb5-7d09-4de0-840a-d70c09b9d4a2.svg"></embed></figure>
-
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+  <p><img src="https://wakatime.com/share/@ApacheChikn/db6cfdb5-7d09-4de0-840a-d70c09b9d4a2.svg" height="640" width="840"></p>
 
 
 
