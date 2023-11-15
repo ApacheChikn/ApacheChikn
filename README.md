@@ -14,7 +14,7 @@
 - ## WakaTime Stats
 <!-- START_SECTION:waka ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ApacheChikn) END_SECTION:waka -->
 
-  <p><img src="https://wakatime.com/share/@ApacheChikn/24cff123-507f-46b3-83f4-d450862a1404.svg" height="640" width="840"></p>
+  <p><img src="https://wakatime.com/share/@ApacheChikn/23e44e6d-5bec-4778-b27e-ffbf7b5a16e0.svg" height="640" width="840"></p>
 
 
 
