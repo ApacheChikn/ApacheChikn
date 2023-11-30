@@ -20,7 +20,11 @@ A repo created to contain my personal website and other website projects.
 
 - ## WakaTime Stats
 
+<<<<<<< HEAD
   <!-- START_SECTION:waka ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ApacheChikn) END_SECTION:waka -->
+=======
+  <p><img src="https://wakatime.com/share/@ApacheChikn/23e44e6d-5bec-4778-b27e-ffbf7b5a16e0.svg" height="640" width="840"></p>
+>>>>>>> e5b6e44d08215d054927ab14cf69a3c21d571420
 
     <p><img src="https://wakatime.com/share/@ApacheChikn/db6cfdb5-7d09-4de0-840a-d70c09b9d4a2.svg" height="640" width="840"></p>
 
