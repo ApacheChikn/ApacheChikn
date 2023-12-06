@@ -1,28 +1,24 @@
 # I'm ApacheChikn and I'm a DevOps Padawan.
 
 <!-- GITHUB STATS -->
-
 - ## GitHub Stats
-
   ![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ApacheChikn?cardType=github&theme=midnight-purple&preferLogin=false)
 
   ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ApacheChikn&theme=midnight-purple)
 
 <!-- ![GitHub Stats-ALTERNATIVE](https://github-readme-stats.vercel.app/api?username=ApacheChikn&theme=midnight-purple&show_icons=true) -->
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ApacheChikn&theme=midnight-purple&mode=weekly)
+  ![GitHub Streak](https://streak-stats.demolab.com?user=ApacheChikn&theme=midnight-purple&mode=weekly)
 
 <!-- WAKATIME STATS -->
-
 - ## WakaTime Stats
+<!-- START_SECTION:waka ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ApacheChikn) END_SECTION:waka -->
 
-<<<<<<< HEAD
-  <!-- START_SECTION:waka ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ApacheChikn) END_SECTION:waka -->
-=======
-  <p><img src="https://wakatime.com/share/@ApacheChikn/23e44e6d-5bec-4778-b27e-ffbf7b5a16e0.svg" height="640" width="840"></p>
->>>>>>> e5b6e44d08215d054927ab14cf69a3c21d571420
+  <p><img src="https://wakatime.com/share/@ApacheChikn/db6cfdb5-7d09-4de0-840a-d70c09b9d4a2.svg" height="640" width="840"></p>
 
-    <p><img src="https://wakatime.com/share/@ApacheChikn/db6cfdb5-7d09-4de0-840a-d70c09b9d4a2.svg" height="640" width="840"></p>
+<!-- GREETING -->
+
+- ## Greetings
 
 - 🍄 I’m currently working on ... Myself (I'm a dark-horse🐎... A diamond💎to be discovered).
 - 🌳 I’m currently learning ... ☁️Cloud Engineering skills.
