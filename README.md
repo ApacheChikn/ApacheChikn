@@ -1,7 +1,3 @@
-# ApacheChikn.github.io
-
-A repo created to contain my personal website and other website projects.
-
 # I'm ApacheChikn and I'm a DevOps Padawan.
 
 <!-- GITHUB STATS -->
