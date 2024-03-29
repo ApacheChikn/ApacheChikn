@@ -31,7 +31,7 @@ A repo created to contain my personal website and other website projects.
 - ✨ Ask me about ... What inspires me.
 - 📫 How to reach me: ... shawnfeltmate@gmail.com
 - 🌀 Pronouns: ... He/Him
-- ⚡ Fun fact 1: ... If you want to understand a man, don't listen to what he says but 👀watch what he does.
+- ⚡ Fun fact 1: ... If you want to understand a man, don't listen to what he says but 👀 watch what he does.
 - ⚡ Fun fact 2: ... Luck🍀 is for games of chance 🎲. I prefer dedication (focused attention), and skill 🎱.
 - ⚡ Fun fact 3: ... Hard work beats talent when talent doesn't work hard.
 - ⚡ Fun fact 4: ... Life is hard, but it's harder if you're stupid.😝
